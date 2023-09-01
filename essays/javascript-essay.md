@@ -11,7 +11,7 @@ labels:
   - My thoughts
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
+<img width="500px" height="225px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
 
 ### My experience
 JavaScript often elicits a mixed sentiment, a dance between flexibility and frustration. Initially, I enjoyed it coming from my prior experience with C++ and Java. Not having to worry about type declarations and the added syntactical complexities of C++ and Java was a welcome relief. It led me to ponder why more people don’t begin coding with JavaScript. However, my feelings quickly shifted when I started a small JavaScript project: connecting the Plaid API with the Google Sheets API to automate the updating of bank data in Google Sheets. Surprisingly, this project only required around ~1000 lines of code. Yet, within this concise project, I encountered JavaScript's limitations. 
