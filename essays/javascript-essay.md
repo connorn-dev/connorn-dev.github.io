@@ -11,7 +11,7 @@ labels:
   - My thoughts
 ---
 <p align="center">
-  <img width="500px" height="225px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-      hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
+  <img width="500px" height="225px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
 </p>
 
 ### My experience
