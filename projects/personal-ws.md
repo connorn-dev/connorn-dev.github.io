@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/project_images/ws-thumbnail.png
 title: "Personal Website in Vanilla JavaScript"
-date: 2022
+date: 01/31/2023
 published: true
 labels:
   - Personal Website
@@ -12,49 +12,15 @@ labels:
 summary: "A personal website I built for myself in vanilla Javascript hosted with github pages."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/project_images/ws.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+### Development Process
+At the Start of 2023 I wanted to create a personal website much like the current one you are on. To showcase my experience and projects I am working on. Because I had no experience in web development I wanted to make it a learning process as well. This is why I used vanilla Javascript because I wanted to learn the basics first before getting introducted to managed packages and Javascript add ons. Using only a few hundred lines of code I was able to build a simple site in HTML, CSS, and JS. The site is live at <a href="https://connorn.dev">connorn.dev</a> . 
 
-To give you a flavor of the game, here is an excerpt from one run:
+<br>
 
-<hr>
+### Result
+Once completed I was happy with the result. However as you can see it is very simple and doesn't showcase all of my ability now. This is why I would like to redo the site at the end of this year using React. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
