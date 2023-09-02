@@ -16,6 +16,10 @@ summary: "For an Internship I did over summer 2023 I worked at Professional Case
 
 <img class="img-fluid" src="../img/project_images/salesforce-sec.png">
 
+### Overview
+Over the summer of 2023 I was working as an intern. I was tasked with updating the data level access within their Salesforce platform. I worked with Salesforce administrators at the company to achive this. Updating hundreds of thousands of field level access within their platform we improved the security and made future proof changes.
+
+
 ### Objective One
 
 The first objective was to build a central document in Excel which contained every user, permission set, public group, and profile. 
