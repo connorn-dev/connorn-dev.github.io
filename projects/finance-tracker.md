@@ -45,7 +45,6 @@ Below is an example of how I have made a customer tracker statement that include
 <img class="img-fluid" src="../img/project_images/tracker.png">
 
 
-
-<hr>
+Source code and repo coming soon after more testing. So you can make your own automatic custom finance tracker!
 
 
