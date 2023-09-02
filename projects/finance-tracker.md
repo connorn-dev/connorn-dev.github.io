@@ -14,7 +14,7 @@ labels:
 summary: "Automatically imports bank transactions and balance data from Plaid into a Google Sheet. Customize your Google Sheet and Create your own Intuit Mint today!"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/project_images/tracker.png">
 
 After trying many different finance tracking methods such as Intuit Mint, YNAB, Rocket Money, Notion, and writing it out on paper every month I realized most are either time consuming to use and track finances, or offer no flexability. I found Excel/Google Sheets to be the best in terms of flexibility, however entering every tranaction manually is time consuming and annoying. Because of this I decided to create a tool to automatically sync your bank transactions and balances into Google Sheets. This way you have all the data Fiannce tracking apps such as Mint have access to, but you can customize your Google sheet to include or exclude data in a format that works for you.
 
@@ -31,7 +31,20 @@ The first one called "server.js" initializes the Plaid client and hostes the log
 With this information "DailyUpdate.js" can be ran whenever I or someone wants to update the transactions and balance data in Google Sheets. On the first run it will ask you to sign into your google account to get access to the Google sheet. With "DailyUpdate.js" it can be set on a cron job either on a local machine or online through circle.ci or other services to run at a set time daily. The Javascript file makes an API call to get all your banks transactions and balance data, it then inserts this data into the specificed Google Sheet.
 
 ###Example Console Output
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/project_images/console.png">
+
+### Data Imported to Google Sheets
+
+These are the two sheets I have the API dump my data into. From here I use Google's Appscript to automatically create a new statement every month that does calculations such as total spending etc. 
+<img class="img-fluid" src="../img/project_images/balances.png">
+<img class="img-fluid" src="../img/project_images/transactions.png">
+
+
+### Tracker Example
+Below is an example of how I have made a customer tracker statement that includes the various data I find important. This can be customized for different use cases such as including total asset and debt tabs. 
+<img class="img-fluid" src="../img/project_images/tracker.png">
+
+
 
 <hr>
 
