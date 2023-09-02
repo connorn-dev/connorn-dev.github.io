@@ -41,9 +41,11 @@ These are the two sheets I have the API dump my data into. From here I use Googl
 
 ### Tracker Example
 Below is an example of how I have made a customer tracker statement that includes the various data I find important. This can be customized for different use cases such as including total asset and debt tabs. 
+<br>
+
 <img class="img-fluid" src="../img/project_images/tracker.png" height="333px" width="550">
 
-
+<br>
 Source code and repo coming soon after more testing. So you can make your own automatic custom finance tracker!
 
 
