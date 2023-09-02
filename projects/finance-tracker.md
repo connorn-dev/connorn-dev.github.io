@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project_images/finance_thumbnail.png
+image: img/project_images/trac.png
 title: "Plaid x Google Sheets API Finance Tracker"
 date: 8/29/2023
 published: true
