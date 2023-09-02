@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project_images/ws-thumbnail.png
+image: img/project_images/ws-1.png
 title: "Personal Website in Vanilla JavaScript"
 date: 01/31/2023
 published: true
