@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/project_images/tracker.png
 title: "Plaid x Google Sheets API Finance Tracker"
 date: 8/29/2023
 published: true
