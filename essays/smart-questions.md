@@ -11,7 +11,6 @@ labels:
   - My thoughts
 ---
 
-<p></p>
 
 ### Overview
 With the increasing complexities of the modern world and technologies, it is more important than ever to ask smart descriptive questions when reaching out for support. Whether online or in person, it is important to make sure the questions you ask help both you and a possible respondent to reduce the time getting help and improve the overall experience. Today, we will look at two StackOverflow questions. One which is formulated to be a smart question, and the other which is not so much. I will be using the article *"How To Ask Questions The Smart Way" by Eric Steven Raymond* as a reference for what is a good question. The goal is to help us better understand what constitutes a smart question so we can write and ask more of them.
@@ -26,7 +25,10 @@ With the increasing complexities of the modern world and technologies, it is mor
 <br>
 <br>
 To start, the <a href="https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror">question</a> with the following title was posted to StackOverflow: 
-> "How do I fix a NoSuchMethodError?".
+
+<p>
+> "How do I fix a NoSuchMethodError?". 
+</p>
  
 With this question, there was no further context or description. Nor were there any links provided to view the code. This question was regarded with three mistakes outlined by Eric Steven Raymond. First, the poster of the question could have started by looking at similar questions with the tag NoSuchMethodError on StackOverflow. Given that the question was posted in 2022, there must have been hundreds, if not thousands, of similar questions already answered. Second, the question provides little context for someone to answer. Because of this, they would need to take guesses as to possible issues. We see this within the responses as the top answer states *"Without any more information, it is difficult to pinpoint the problem."* To add to this, there was no source code or error code provided, just the name of the error. So there is no way of telling when or where it happened. Finally, the user did not provide any details about how they tried to fix the error. These combined resulted in a lackluster answer section. With multiple completely different possible solutions being brought up. From issues with actual code to issues with the .jar file and issues with imported packages.
 
