@@ -49,3 +49,6 @@ The poster of the question follows a few important rules for a smart question. F
 To conclude what was discussed I would like to note while asking smart questions may not always get you answers, it will most definitely help find answers faster when there are good solutions available. Because of the abstractness of computer science and the vast variety of domains, it is important to remain professional, give context, and provide all the details you have when asking questions. So other developers can help you and make it pain-free on their end. I hope you enjoyed my thoughts on smart questions and remember to ask the question "Is my question a smart question."
 
 </p>
+
+---
+Source: <a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a> 
