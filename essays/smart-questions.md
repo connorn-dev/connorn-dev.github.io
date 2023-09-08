@@ -14,6 +14,8 @@ labels:
   <img width="500px" height="225px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
 </p>
 
+<p></p>
+
 ### Overview
 With the increasing complexities of the modern world and technologies, it is more important than ever to ask smart descriptive questions when reaching out for support. Whether online or in person, it is important to make sure the questions you ask help both you and a possible respondent to reduce the time getting help and improve the overall experience. Today, we will look at two StackOverflow questions. One which is formulated to be a smart question, and the other which is not so much. I will be using the article *"How To Ask Questions The Smart Way" by Eric Steven Raymond* as a reference for what is a good question. The goal is to help us better understand what constitutes a smart question so we can write and ask more of them.
 
@@ -33,3 +35,5 @@ Now I would like to offer a smart question, at least checking off some points ma
 
 ### What Now? 
 To conclude what was discussed I would like to note while asking smart questions may not always get you answers, it will most definitely help find answers faster when there are good solutions available. Because of the abstractness of computer science and the vast variety of domains, it is important to remain professional, give context, and provide all the details you have when asking questions. So other developers can help you and make it pain-free on their end. I hope you enjoyed my thoughts on smart questions and remember to ask the question "Is my question a smart question."
+
+</p>
