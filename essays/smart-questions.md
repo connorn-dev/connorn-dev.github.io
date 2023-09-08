@@ -18,12 +18,13 @@ With the increasing complexities of the modern world and technologies, it is mor
 
 <br>
 
+
+### A Not So Smart Question
 <p align="center">
-  <img width="500px" height="225px" class="rounded float-start pe-4" src="https://4.bp.blogspot.com/-hJYGaqCwtA8/VaEstUAnxII/AAAAAAAAAcA/arcUPgfXbvI/s1600/arraylistError.png">
+  <img width="500px" height="225px" class="rounded float-start pe-4" src="../img/smart-questions/q1.png">
 </p>
 <br>
 <br>
-### A Not So Smart Question
 To start, the [question](https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror) with the following title was posted to StackOverflow: 
 > "How do I fix a NoSuchMethodError?".
  
@@ -32,6 +33,11 @@ With this question, there was no further context or description. Nor were there 
 <br>
 
 ### A Smart Question
+<p align="center">
+  <img width="500px" height="225px" class="rounded float-start pe-4" src="../img/smart-questions/q2.png">
+</p>
+<br>
+<br>
 Now I would like to offer a smart question, at least checking off some points made in the article by *Eric Steven Raymond*. While this is not a perfect smart question, it demonstrates that having a few qualities of a smart question can improve the overall experience. The following [question](https://stackoverflow.com/questions/72488297/referenceerror-getvaluesofautofillinputs-cant-find-variable-paymentautofillco) was posted with the title: 
 > "ReferenceError getValuesOfAutofillInputs, Can't find variable: PaymentAutofillConfig."
 
