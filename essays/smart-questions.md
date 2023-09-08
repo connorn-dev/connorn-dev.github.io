@@ -26,7 +26,7 @@ With the increasing complexities of the modern world and technologies, it is mor
 <br>
 <br>
 To start, the 
-[question](https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror)
+([question](https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror))
 [question](https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror)
 with the following title was posted to StackOverflow: 
 > "How do I fix a NoSuchMethodError?".
