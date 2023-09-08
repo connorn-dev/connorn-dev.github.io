@@ -25,7 +25,8 @@ With the increasing complexities of the modern world and technologies, it is mor
 </p>
 <br>
 <br>
-To start, the [question](https://stackoverflow.com/questions/72488297/referenceerror-getvaluesofautofillinputs-cant-find-variable-paymentautofillco) with the following title was posted to StackOverflow: 
+To start, the 
+[question](https://stackoverflow.com/questions/72488297/referenceerror-getvaluesofautofillinputs-cant-find-variable-paymentautofillco) with the following title was posted to StackOverflow: 
 > "How do I fix a NoSuchMethodError?".
  
 With this question, there was no further context or description. Nor were there any links provided to view the code. This question was regarded with three mistakes outlined by Eric Steven Raymond. First, the poster of the question could have started by looking at similar questions with the tag NoSuchMethodError on StackOverflow. Given that the question was posted in 2022, there must have been hundreds, if not thousands, of similar questions already answered. Second, the question provides little context for someone to answer. Because of this, they would need to take guesses as to possible issues. We see this within the responses as the top answer states *"Without any more information, it is difficult to pinpoint the problem."* To add to this, there was no source code or error code provided, just the name of the error. So there is no way of telling when or where it happened. Finally, the user did not provide any details about how they tried to fix the error. These combined resulted in a lackluster answer section. With multiple completely different possible solutions being brought up. From issues with actual code to issues with the .jar file and issues with imported packages.
