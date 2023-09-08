@@ -24,6 +24,12 @@ With the increasing complexities of the modern world and technologies, it is mor
 </p>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 To start, the <a href="https://stackoverflow.com/questions/35186/how-do-i-fix-a-nosuchmethoderror">question</a> with the following title was posted to StackOverflow: 
 
 >"How do I fix a NoSuchMethodError?".
@@ -37,6 +43,13 @@ With this question, there was no further context or description. Nor were there 
 <p align="center">
   <img width="464px" height="267px" class="rounded float-start pe-4" src="../img/smart-questions/q2.png">
 </p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 Now I would like to offer a smart question, at least checking off some points made in the article by *Eric Steven Raymond*. While this is not a perfect smart question, it demonstrates that having a few qualities of a smart question can improve the overall experience. The following <a href="https://stackoverflow.com/questions/72488297/referenceerror-getvaluesofautofillinputs-cant-find-variable-paymentautofillco">question</a> was posted with the title: 
