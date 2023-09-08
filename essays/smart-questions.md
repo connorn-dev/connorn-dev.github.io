@@ -20,11 +20,8 @@ With the increasing complexities of the modern world and technologies, it is mor
 
 ### A Not So Smart Question
 <p align="center">
-  <img width="464px" height="89px" class="rounded float-start pe-4" src="../img/smart-questions/q1.png">
+  <img align="center" width="464px" height="89px" class="rounded float-start pe-4" src="../img/smart-questions/q1.png">
 </p>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -41,8 +38,10 @@ With this question, there was no further context or description. Nor were there 
 
 ### A Smart Question
 <p align="center">
-  <img width="464px" height="267px" class="rounded float-start pe-4" src="../img/smart-questions/q2.png">
+  <img align="center" width="464px" height="267px" class="rounded float-start pe-4" src="../img/smart-questions/q2.png">
 </p>
+<br>
+<br>
 <br>
 <br>
 <br>
