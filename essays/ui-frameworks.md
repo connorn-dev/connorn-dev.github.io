@@ -24,13 +24,13 @@ Many developers, mostly backend focused developers find frustration using CSS to
 We have learned when to use Frameworks and CSS. Now let's take a look at three sites built with bootstrap, or just plain css.
 
 <p>
-  <img align="left" width="1200px" height="1200px" src="../img/project_images/a1.png">
+  <img align="left" width="309px" height="304px" src="../img/project_images/a1.png">
 </p>
 <p>
-  <img align="center" width="1200px" height="1200px" src="../img/project_images/a3.png">
+  <img align="center" width="309px" height="286px" src="../img/project_images/a3.png">
 </p>
 <p>
-  <img align="right" width="1200px" height="1200px" src="../img/project_images/a2.png">
+  <img align="right" width="309px" height="183px" src="../img/project_images/a2.png">
 </p>
 
 
