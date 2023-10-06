@@ -23,14 +23,14 @@ Many developers, mostly backend focused developers find frustration using CSS to
 ### Comparing UI Frameworks to CSS
 We have learned when to use Frameworks and CSS. Now let's take a look at three sites built with bootstrap, or just plain css.
 
-<p align="center">
-  <img align="center" width="464px" height="89px" src="../img/project_images/a1.png">
+<p>
+  <img align="left" width="464px" height="89px" src="../img/project_images/a1.png">
 </p>
-<p align="center">
+<p>
   <img align="center" width="464px" height="89px" src="../img/project_images/a3.png">
 </p>
-<p align="center">
-  <img align="center" width="464px" height="89px" src="../img/project_images/a2.png">
+<p>
+  <img align="right" width="464px" height="89px" src="../img/project_images/a2.png">
 </p>
 
 
