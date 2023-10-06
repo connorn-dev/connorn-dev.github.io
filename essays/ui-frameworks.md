@@ -10,9 +10,6 @@ labels:
   - UI Frameworks
   - My thoughts
 ---
-<p align="center">
-  <img  src="../img/project_images/code-standard.png">
-</p>
 
 ### Overview
 With the continued developing complexity of web development developers now must learn multiple frameworks and tools in addition to languages to make stand out webpages. Specifically new web user interface frameworks are being released constantly. However, household names such as Bootstrap, Material UI, and Tailwind still make up for the majority of developers front end frameworks. Each new framework has to each their own learning curves. In exchange the developer expects an easier approuch to styling from the standard CSS/HTML. This comes at the expense of flexibity and creative freedom. With more webpages being built with frameworks, it makes it more difficult to build websites with frameworkds that stand out. The question stands "Is it worth learning UI frameworks in 2023"?
@@ -24,17 +21,10 @@ For developer's frameworks aim to create efficenty in web developement, minimizi
 Many developers, mostly backend focused developers find frustration using CSS to build sites. But for the creative developers it is a necesity that must be learned and mastered to make use of the technology. It offers full creativity and developers should be confortable understanding the inter workings of CSS if they are to learn frameworks. While it is frustrating for most, it is the backbone of frameworks and allows for customization when needed. Because of this, developers should not skip over CSS and instead learn fundamentals of how it works to help their development.
 
 ### Comparing UI Frameworks to CSS
-We have learned when to use Frameworks and CSS. Now let's take a look at three sites.
+We have learned when to use Frameworks and CSS. Now let's take a look at three sites built with bootstrap, or just plain css.
 
-<button id="myButton">Click me</button>
+<p align="center">
+  <
+</p>
 
-<div id="hiddenText" style="display:none;">
-    This is the additional text that will be displayed when the button is clicked.
-</div>
-
-<script>
-    document.getElementById('myButton').addEventListener('click', function() {
-        document.getElementById('hiddenText').style.display = 'block';
-    });
-</script>
 
