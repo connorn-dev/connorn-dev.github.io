@@ -30,7 +30,7 @@ We have learned when to use Frameworks and CSS. Now let's take a look at three s
   <img align="center" width="309px" height="286px" src="../img/project_images/a3.png">
 </p>
 <p>
-  <img align="right" width="309px" height="183px" src="../img/project_images/a2.png">
+  <img align="center" width="309px" height="183px" src="../img/project_images/a2.png">
 </p>
 
 
