@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Artificial Intelligence in the Classroom and Our Next Generation of Students"
-date: 2023-10-30
+date: 2023-11-21
 labels:
   - Software Engineering
   - Artificial Intelligence
@@ -23,23 +23,23 @@ In recent years, AI has become an integral part of education. Whether intended o
 
 4. **Essays:** I have found that ChatGPT can offer a very good template and help formulate ideas. However, the end product it writes is not yours, and, as many have noted, the essays come off as soulless, without any writing style. It could help if I ask the prompt “Implement a JavaScript function that can count to 1000.”
 
-5. **Final project:** ChatGPT has been a big help with understanding stack trace errors and building template code to get started and take massive action in the early stages. It could help if I ask the prompt “Why am I getting this error <Code> <Error>.”
+5. **Final project:** ChatGPT has been a big help with understanding stack trace errors and building template code to get started and take massive action in the early stages. It could help if I ask the prompt “Why am I getting this error «Code» «Error».”
 
 6. **Learning a concept/tutorial:** It can be useful to gather information; however, when it comes to challenging answers or reasoning with ChatGPT, its answers need to be taken with a grain of salt as it can provide misinformation and false answers. It could help if I ask the prompt “Help me understand how MongoDB works and the document object model.”
 
-7. **Answering a question in class or in Discord:** This is where ChatGPT is no help, as it has no context regarding how your class is operating or specifics that are unknown. It would usually not help when asking “Help me help a classmate with this <Question>.”
+7. **Answering a question in class or in Discord:** This is where ChatGPT is no help, as it has no context regarding how your class is operating or specifics that are unknown. It would usually not help when asking “Help me help a classmate with this «Question».”
 
-8. **Asking or answering a smart question:** ChatGPT can help formulate smart questions, and it can help answer questions. However, it cannot review multiple files for error tracing in my experience. It would usually not help when asking “Why am I getting this error, here is my code <file1> <file2> <file3>.”
+8. **Asking or answering a smart question:** ChatGPT can help formulate smart questions, and it can help answer questions. However, it cannot review multiple files for error tracing in my experience. It would usually not help when asking “Why am I getting this error, here is my code «file1» «file2» «file3».”
 
 9. **Coding example (e.g., “give an example of using Underscore .pluck”):** This is where I have found ChatGPT to shine. It can offer a quick example that can be changed without needing to read through documentation. However, errors can occur when ChatGPT references old packages or syntax, and a new one is being used for the project. It could help if I ask the prompt “Give me an example of how to use TestCafe.”
 
-10. **Explaining code:** Most of the time, ChatGPT can explain code; however, it cannot explain the reasoning behind why certain code was implemented the way it was, so it is limited in that sense. It would give mixed responses to prompts following this “Explain to me why my code is doing <x> and not <y> <Code>.”
+10. **Explaining code:** Most of the time, ChatGPT can explain code; however, it cannot explain the reasoning behind why certain code was implemented the way it was, so it is limited in that sense. It would give mixed responses to prompts following this “Explain to me why my code is doing «x» and not «y» «Code».”
 
 11. **Writing code:** As stated before, simple template code is easy to generate with AI, such as a starter home page or an API endpoint. However, it cannot generate full projects or write code for complex solutions perfectly. It would give mixed responses to prompts following this “Write me a function that can take a user input and submit it to the database using Meteor and MongoDB.”
 
-12. **Documenting code:** Most of the time, ChatGPT can document code; however, it cannot speak to why you wrote something the way you did. It could help if I ask the prompt “Help me write comments for the following code… <function1> <function2>.”
+12. **Documenting code:** Most of the time, ChatGPT can document code; however, it cannot speak to why you wrote something the way you did. It could help if I ask the prompt “Help me write comments for the following code… «function1» «function2».”
 
-13. **Quality assurance (e.g., “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”):** For quality assurance, I have found ChatGPT to shine. It can quickly point out syntax errors and provide a fix immediately. When using ChatGPT, this is what I use for a majority of the time. It almost always provides in-depth answers to the following prompts “Why am I getting this error <error> with this code <code>.”
+13. **Quality assurance (e.g., “What’s wrong with this code «code here»” or “Fix the ESLint errors in «code here»”):** For quality assurance, I have found ChatGPT to shine. It can quickly point out syntax errors and provide a fix immediately. When using ChatGPT, this is what I use for a majority of the time. It almost always provides in-depth answers to the following prompts “Why am I getting this error «error» with this code «code».”
 
 14. **Software configurations:** When configuring IDEs such as IntelliJ, I have found ChatGPT to be no help. This is likely because the software and the menus constantly change. It would never help when asking questions such as “Help me change my IntelliJ window to be half on the right and half on the right.”
 
@@ -66,3 +66,4 @@ AI in education will evolve, and it will evolve fast, I believe. But at its curr
 ## VIII. Note on Other AI Technologies
 
 A note is I have had little experience with AI software outside of ChatGPT. I believe the software is sufficient for my needs. However, other AI technology exists, such as GitHub Copilot and Stable Diffusion, which may change my perspective after I learn them. I would like to add that I am glad we had the opportunity to use the software in the class for software engineering freely. It is a policy that I have not experienced, and I believe it was beneficial to students who use the technology to help them better understand topics and save them time. We will look back in 5 to 10 years and see how the technology has evolved in the classroom. Maybe we won’t see human instructors anymore, maybe we won’t see any changes from now. Nevertheless, it will be interesting and important to follow as AI changes education.
+
