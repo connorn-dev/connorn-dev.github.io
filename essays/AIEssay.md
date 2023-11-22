@@ -9,6 +9,11 @@ labels:
   - My Thoughts
 ---
 
+<p align="center">
+  <img  src="https://i.postimg.cc/pXSJ3v1f/prompthero-prompt-ff68c28dc24.webp">
+  Source: [AI art](https://prompthero.com/prompt/ff68c28dc24)
+</p>
+
 # Introduction
 
 In recent years, AI has become an integral part of education. Whether intended or unintended, AI has entered classrooms as a way to help students learn and, in some cases, hinder learning as well. Specifically, LLMs (Large Language Models) have emerged as a way to work through problems and provide solutions. Depending on how the technology is used, it determines whether it is helping or hindering students' education. In software development, it is being used to help students solve algorithm problems, write template code, and, for some students, cheat to find solutions to problems they don’t understand. Personally, I have used ChatGPT in my Software Engineering I class to help write template code, read and summarize errors, and better understand concepts.
