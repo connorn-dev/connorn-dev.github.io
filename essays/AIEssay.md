@@ -10,7 +10,7 @@ labels:
 ---
 
 <p align="center">
-  <img  src="https://i.postimg.cc/pXSJ3v1f/prompthero-prompt-ff68c28dc24.webp">
+  <img  src="https://i.postimg.cc/pXSJ3v1f/prompthero-prompt-ff68c28dc24.webp" width="200px" height="200px">
   Source: [AI art](https://prompthero.com/prompt/ff68c28dc24)
 </p>
 
