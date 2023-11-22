@@ -13,7 +13,7 @@ labels:
 
 In recent years, AI has become an integral part of education. Whether intended or unintended, AI has entered classrooms as a way to help students learn and, in some cases, hinder learning as well. Specifically, LLMs (Large Language Models) have emerged as a way to work through problems and provide solutions. Depending on how the technology is used, it determines whether it is helping or hindering students' education. In software development, it is being used to help students solve algorithm problems, write template code, and, for some students, cheat to find solutions to problems they don’t understand. Personally, I have used ChatGPT in my Software Engineering I class to help write template code, read and summarize errors, and better understand concepts.
 
-## List of Uses for AI in Software Engineering Class
+## Uses for AI in Software Engineering Class
 
 1. **Experience WODs (e.g., E18):** On WODs done at home, AI was useful for fully understanding problems. It was helpful to ask questions about problems not covered in the material provided by the instructor, such as “Why does Meteor use MongoDB over other databases?”
 
@@ -65,5 +65,5 @@ AI in education will evolve, and it will evolve fast, I believe. But at its curr
 
 ## VIII. Note on Other AI Technologies
 
-A note is I have had little experience with AI software outside of ChatGPT. I believe the software is sufficient for my needs. However, other AI technology exists, such as GitHub Copilot and Stable Diffusion, which may change my perspective after I learn them. I would like to add that I am glad we had the opportunity to use the software in the class for software engineering freely. It is a policy that I have not experienced, and I believe it was beneficial to students who use the technology to help them better understand topics and save them time. We will look back in 5 to 10 years and see how the technology has evolved in the classroom. Maybe we won’t see human instructors anymore, maybe we won’t see any changes from now. Nevertheless, it will be interesting and important to follow as AI changes education.
+Something to note is I have had little experience with AI software outside of ChatGPT. I believe the software is sufficient for my needs. However, other AI technology exists, such as GitHub Copilot and Stable Diffusion, which may change my perspective after I learn them. I would like to add that I am glad we had the opportunity to use the software in the class for software engineering freely. It is a policy that I have not experienced, and I believe it was beneficial to students who use the technology to help them better understand topics and save them time. We will look back in 5 to 10 years and see how the technology has evolved in the classroom. Maybe we won’t see human instructors anymore, maybe we won’t see any changes from now. Nevertheless, it will be interesting and important to follow as AI changes education.
 
