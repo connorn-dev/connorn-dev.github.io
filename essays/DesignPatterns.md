@@ -13,7 +13,7 @@ labels:
   <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--cGXcJQ4p--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rr0h1bw7dnsio6lsxq7q.jpeg" width="320px" height="180px">
 </p>
 <p align="center">
-  Source: [Website](https://dev.to/thayseonofrio/how-to-get-started-with-design-patterns-iai)
+  Source: https://dev.to/thayseonofrio/how-to-get-started-with-design-patterns-iai
 </p>
 
 # From Blocks to Buildings
