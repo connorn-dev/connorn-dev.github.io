@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Artificial Intelligence in the Classroom and Our Next Generation of Students"
-date: 2023-11-21
+title: "Designing Applications Effortlessly"
+date: 2023-11-30
 labels:
   - Software Engineering
-  - Artificial Intelligence
+  - Design Patterns
   - My Thoughts
 ---
 
