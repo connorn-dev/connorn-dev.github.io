@@ -1,3 +1,21 @@
+---
+layout: essay
+type: essay
+title: "Artificial Intelligence in the Classroom and Our Next Generation of Students"
+date: 2023-11-21
+labels:
+  - Software Engineering
+  - Artificial Intelligence
+  - My Thoughts
+---
+
+<p align="center">
+  <img  src="https://res.cloudinary.com/practicaldev/image/fetch/s--cGXcJQ4p--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rr0h1bw7dnsio6lsxq7q.jpeg" width="320px" height="180px">
+</p>
+<p align="center">
+  Source: [Website](https://dev.to/thayseonofrio/how-to-get-started-with-design-patterns-iai)
+</p>
+
 # From Blocks to Buildings
 
 Building software is much like constructing anything else in the physical world. Let’s take the example of building a house. The house is the end result everyone sees. Similarly, in software engineering, the product or service built is what everyone will see. However, behind all the scaffolding and styling, the main structure is what is important and holds up the house.
