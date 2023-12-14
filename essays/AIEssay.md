@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Artificial Intelligence in the Classroom and Our Next Generation of Students"
-date: 2023-11-21
+title: "The Crossover of Software Engineering to Other Fields"
+date: 2023-12-13
 labels:
   - Software Engineering
-  - Artificial Intelligence
+  - Importance
   - My Thoughts
 ---
 
