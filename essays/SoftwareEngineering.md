@@ -9,7 +9,12 @@ labels:
   - My Thoughts
 ---
 
-<img src=https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/6507a9857dd32ba394160042_19.%20What%20is%20Software%20Engineering.png" alt="software engineering">
+<p align="center">
+  <img  src="https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/6507a9857dd32ba394160042_19.%20What%20is%20Software%20Engineering.png" width="200px" height="200px" alt="software engineering">
+</p>
+<p align="center">
+  Source: https://www.wearedevelopers.com/magazine/what-is-software-engineering
+</p>
 
 # Software Engineering Skills and Their Applications
 
