@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Designing Applications Effortlessly | Connor Narowetz | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="../img/Connor_Profile.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Connor Narowetz | Professional Portfolio">
+    <meta property="og:url" content="https://connorn-dev.github.io/essays/DesignPatterns.html">
+    <meta property="og:title" content="Designing Applications Effortlessly | Connor Narowetz | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="../img/Connor_Profile.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Designing Applications Effortlessly | Connor Narowetz | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Connor Narowetz</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Designing Applications Effortlessly</h1>
+  <span class="date">30 Nov 2023</span>
+  <hr>
+  <p align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cGXcJQ4p--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/rr0h1bw7dnsio6lsxq7q.jpeg" width="320px" height="180px" />
+</p>
+<p align="center">
+  Source: https://dev.to/thayseonofrio/how-to-get-started-with-design-patterns-iai
+</p>
+
+<h1 id="from-blocks-to-buildings">From Blocks to Buildings</h1>
+
+<p>Building software is much like constructing anything else in the physical world. Let’s take the example of building a house. The house is the end result everyone sees. Similarly, in software engineering, the product or service built is what everyone will see. However, behind all the scaffolding and styling, the main structure is what is important and holds up the house.</p>
+
+<p>Building a simple one-bedroom house is straightforward. It consists of four walls connected together and a roof. Someone with little to no experience could build this home quickly. Now, what if we wanted to split the work up between three people? Now, even this simple project could be complicated as tasks are delegated and changed. The story is similar for software. Simple applications can easily be built with one person. However, as more people touch a project and the project grows in complexity, it becomes ever so important to start thinking about breaking the project down into small steps. These steps should be independent of each other, allowing for collaboration on solutions for the final project. This, in essence, is what design patterns are. They represent efficient ways to solve recurring design problems, ideally providing flexibility for continued development and changes.</p>
+
+<p>For the building analogy, they are the processes engineers go through to effectively work with electricians, steelworkers, etc.</p>
+
+<h1 id="foodnows-processes">FoodNow’s Processes</h1>
+
+<p>Working on “Food Now,” the final project for Software Engineering, multiple design patterns were implemented. Our core design principle was, instead of drawing mockups, we used React directly to create mockups. This allowed code to be moved from the React template to our Meteor project. This design pattern enabled us to take massive action. Adding to the design of our website, our primary objective was to get a working application and fine-tune the application after the initial structure was built. Much like building a house where you first frame the house and then add siding. From here, it was a design pattern to have Meteor account objects, as well as three databases for each user account type. By splitting it up this way, we could keep the important login information for Meteor separate from the user-specific information that Meteor does not use for authentication.</p>
+
+<h1 id="meteorjs-building-blocks">MeteorJS Building Blocks</h1>
+
+<p>I would like to note the design patterns that were used for the application that came as a result of using Meteor over other client/server-side frameworks. The most noticeable is the use of NoSQL as a result of MongoDB. We designed the application around this, creating vendor documents made up of food documents in this document object model. The React router was used to structure our authentication and protected route use. Finally, Meteor’s publications and subscriptions model were used to allow clients access to data on the server side. Design patterns are an integral part of building applications efficiently and must be thoroughly considered when working with team members. It is important to discuss the use of different design patterns and their tradeoffs for each project’s use case. The end result will be easy-to-understand architecture, effective code, and happy programmers.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

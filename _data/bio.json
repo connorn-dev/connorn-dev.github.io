@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Connor Narowetz",
+    "label": "Student",
+    "picture": "../img/Connor_Profile.png",
+    "email": "cnarowetz@gmail.com",
+    "phone": "720-822-4444",
+    "website": "https://connorn-dev.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "connorn-dev", "url": "https://github.com/connorn-dev" },
+      { "network": "linkedin", "username": "Connor Narowetz", "url": "https://www.linkedin.com/in/connor-narowetz/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Personal Finance" },
+    { "name": "Consumer Financial Products" },
+    { "name": "Generative AI" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "NodeJS", "Git", "Github", "Salesforce Administrator", "SOQL", "Apex", "Google Cloud", "Meteor", "ReactJS", "MongoDB" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "Visual Studio Code"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-20",
+      "endDate": "Present",
+      "courses": [ "C/C++ Programming", "Data Structures & Algorithms", "Databases"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Professional Case Management",
+      "position": "Information Technology Summer Intern",
+      "website": "",
+      "startDate": "2023-05-07",
+      "endDate": "2023-08-21",
+      "summary": "I was responsible for analyzing and updating a security model within Salesforce. I was able to analyze data access in mass quantities through tools I built with Apex, SOQL, and VBA. Making modifications to increase the security within the Salesforce platform at professional case management.",
+      "highlights": [
+        "Salesforce Administrator Work",
+        "Update Security Model"
+      ]
+    },
+  ],
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "2013-2016",
+      "awarder": "Scouts of America",
+      "summary": "I was awarded Eagle Scout and a Gold Palm in scouts."
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
