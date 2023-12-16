@@ -33,8 +33,5 @@ Throughout the development process, I took responsibility for three key features
 
 ## Takeaways
 
-This semester's project provided me with practical experience to bring into my first job and my upcoming internship. Prior to this class and project, I had only collaborated with one or two other developers at a time. This project pushed me out of my comfort zone, enabling me to build something with a team from start to finish. Along the way, I gained exposure to new technologies and frameworks, such as Meteor and React JS, which I had not encountered previously. Additionally, the experience with testing applications and receiving user feedback will undoubtedly be valuable in the future. In conclusion, I extend my gratitude to Professor Moore and our TA for facilitating an excellent class in the fall of 2023.
-
-### Check out our Github Organization Page [Here](https://github.com/food-now)
-
+This semester's project provided me with practical experience to bring into my first job and my upcoming internship. Prior to this class and project, I had only collaborated with one or two other developers at a time. This project pushed me out of my comfort zone, enabling me to build something with a team from start to finish. Along the way, I gained exposure to new technologies and frameworks, such as Meteor and React JS, which I had not encountered previously. Additionally, the experience with testing applications and receiving user feedback will undoubtedly be valuable in the future. In conclusion, I extend my gratitude to Professor Moore and our TA for facilitating an excellent class in the fall of 2023. Check out our Github Organization Page [here](https://github.com/food-now) to learn more.
 
