@@ -17,7 +17,7 @@ summary: "In the FALL 2023 semester at the University of Hawaii, I participated 
 
 During the FALL 2023 semester at the University of Hawaii, I had the opportunity to take the class "Software Engineering I." A final group project was required of all students in this class. As one can imagine, it was a little daunting, requiring the consolidation of all the learned material from the semester and collaborating with classmates to develop a working web application. I initially underestimated the task, thinking it would be easy to come together and divide the work. However, it turned out to be far from that, with numerous setbacks, including team members not working, code overwrites, and various coding errors. Today, I would like to showcase the work we accomplished and the project we built.
 
-<img class="img-fluid" src="../img/project_images/p_main.png/">
+<img class="img-fluid" src="../img/project_images/p_main.png/" width="462" height="537">
 
 ## Application Overview
 
@@ -27,9 +27,9 @@ My team and I were tasked with building a web application that could effectively
 
 Throughout the development process, I took responsibility for three key features that significantly contributed to the end product. Firstly, I developed the backend for the "Add User" page, incorporating form data validation and database user creation. Once the team established a working method to add new users, the need arose to view all users centrally for application administrators. I addressed this by creating a simple page displaying three tables, one for each account type, showing essential information such as name, profile picture, and email. Lastly, I assisted in creating the central view that customers (students) see after logging in. This involved importing the "mapbox" and "leaflet" packages for React. Leaflet facilitated the addition of an interactive map, while mapbox provided styling. An adjacent section for loading all vendors was included, allowing customers to find their favorite places in one central location. While these are my primary contributions, I also played a role in minor bug fixing, refactoring, and other page functionalities not explicitly mentioned.
 
-<img class="img-fluid" src="../img/project_images/p_main2.png/">
-<img class="img-fluid" src="../img/project_images/p_all.png/">
-<img class="img-fluid" src="../img/project_images/p_add.png/">
+<img class="img-fluid" src="../img/project_images/p_main2.png/" width="1100" height="537">
+<img class="img-fluid" src="../img/project_images/p_all.png/" width="550" height="537">
+<img class="img-fluid" src="../img/project_images/p_add.png/" height="550" hegiht="537">
 
 ## Takeaways
 
