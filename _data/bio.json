@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "NodeJS", "Git", "Github", "Salesforce Administrator", "SOQL", "Apex", "Google Cloud"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "NodeJS", "Git", "Github", "Salesforce Administrator", "SOQL", "Apex", "Google Cloud", "Meteor", "ReactJS", "MongoDB" ]
     },
     {
       "name": "Toolsets/OS",
