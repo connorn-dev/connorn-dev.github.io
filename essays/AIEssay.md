@@ -1,6 +1,5 @@
 ---
 layout: essay
-type: essay
 title: "Artificial Intelligence in the Classroom and Our Next Generation of Students"
 date: 2023-11-21
 labels:
