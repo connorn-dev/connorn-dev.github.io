@@ -29,7 +29,7 @@ Throughout the development process, I took responsibility for three key features
 
 <img class="img-fluid" src="../img/project_images/p_main2.png">
 <img class="img-fluid" src="../img/project_images/p_all.png">
-<img class="img-fluid" src="../img/project_images/p_add.png">
+<img class="img-fluid" src="../img/project_images/add.png">
 
 ## Takeaways
 
