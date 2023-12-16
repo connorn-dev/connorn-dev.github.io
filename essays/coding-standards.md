@@ -1,6 +1,5 @@
 ---
 layout: essay
-type: essay
 title: "Balancing Quality Code Without Sacrificing Development Efficiency"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-21
