@@ -1,6 +1,5 @@
 ---
 layout: essay
-type: essay
 title: "Building Blocks Versus Custom: Evaluating UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-05
