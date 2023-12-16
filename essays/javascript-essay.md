@@ -1,6 +1,5 @@
 ---
 layout: essay
-type: essay
 title: "Breaking free from “TypeMisMatch”: Embracing the features of Javascript"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-31
