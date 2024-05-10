@@ -20,11 +20,11 @@ A website that intergrated people wanting to volunteer with organizations. The p
 multiple deadlines throughout the semester.
 
 ### Our Project
-<p align="left">
-  <img  src="../img/project_images/b2.png">
+<p align="center">
+  <img  src="../img/project_images/b2.png" width="869" height="883">
 </p>
-<p align="right">
-  <img  src="../img/project_images/b1.png">
+<p align="center">
+  <img  src="../img/project_images/b1.png" width="869" height="883">
 </p>
 
 For the start of the project we got started with a lot of backend work. The thought was if we put in some time now 
