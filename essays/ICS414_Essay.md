@@ -51,7 +51,7 @@ team worked well together. With the rest of us contributing to parts of the proj
 all helped each other out answering questions and were responsive within discord. With our communication being clear and 
 professional. I'm happy with the results we achilved given the circumstances.
 
-### Final Thouhgts
+### Final Thoughts
 Overall I had a great experience with this class. I worked with the largest code base I have ever worked with. Had 
 interesting dialog with team members and got a sense of satisfaction from the finished product. It was inspirring seeing
 how much our small team got done. In the future I think it will motivate me to work more on persoanl projects and I will
